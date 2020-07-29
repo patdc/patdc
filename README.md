@@ -1,5 +1,23 @@
 <!--START_SECTION:waka-->
 
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+
 - uses: patdc/patdc@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
@@ -8,5 +26,7 @@
           SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TIMEZONE: "True"
-
+          
+          
+          
 <!--END_SECTION:waka-->
