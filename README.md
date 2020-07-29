@@ -13,6 +13,7 @@ Je suis austro-brésilienne, et après des études en musique classique (piano c
 - 🌱 En ce moment j’étudie : ReactJS and Swift
 - 😍Interessée par : UX/UI Design, Design Graphique, Calligraphie, Typographie
 - 💖Centres d’Intêret : Roller derby, Jeux vidéo, musique classique, composition musicale/orchestration
+- 📚 Portfolio : http://patdc.github.io
 - 📫 Contact: patriciadecarli87@gmail.com
 
 
