@@ -1,5 +1,3 @@
-### Hello ! 👋
-
 <!--START_SECTION:waka-->
 
 - uses: patdc/patdc@master
@@ -8,5 +6,7 @@
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_TIMEZONE: "True"
 
 <!--END_SECTION:waka-->
