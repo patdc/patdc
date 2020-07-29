@@ -16,6 +16,8 @@ Je suis austro-brésilienne, et après des études en musique classique (piano c
 - 📚 Portfolio : http://patdc.github.io
 - 📫 Contact: patriciadecarli87@gmail.com
 
+![](https://forthebadge.com/images/badges/built-with-love.svg)
+
 
 ## 📊 Mes statistiques (dernière semaine)
 
