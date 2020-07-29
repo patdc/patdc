@@ -7,17 +7,6 @@ on:
     # Runs at 12am IST
     - cron: '30 18 * * *'
 
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: patdc/patdc
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-
 - uses: patdc/patdc
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
