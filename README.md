@@ -1,21 +1,9 @@
 <!--START_SECTION:waka-->
-
-name: Waka Readme
-
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-
-- uses: patdc/patdc
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_LINES_OF_CODE: "True"
-          SHOW_TIMEZONE: "True"
-          
-          
-          
+```text
+JavaScript   5 hrs 9 mins    ███████████████████░░░░░░   76.26 % 
+HTML         1 hr 23 mins    █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+```
 <!--END_SECTION:waka-->
