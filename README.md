@@ -6,11 +6,4 @@ JSON         7 mins          ░░░░░░░░░░░░░░░░░
 CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
-
-SHOW_LINES_OF_CODE: "True"
-SHOW_LANGUAGE: "True"
-SHOW_OS: "True"
-SHOW_TIMEZONE: "True"
-SHOW_EDITORS: "True"
-
 <!--END_SECTION:waka-->
