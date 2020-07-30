@@ -23,10 +23,10 @@ Je suis austro-brésilienne, et après des études en musique classique (piano c
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 9 mins    ███████████████████░░░░░░   76.26 % 
-HTML         1 hr 23 mins    █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
-JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+JavaScript   5 hrs 9 mins    ██████████████████████░░░   87.71 % 
+HTML         30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 <!--END_SECTION:waka-->
