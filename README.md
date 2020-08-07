@@ -19,14 +19,5 @@ Je suis austro-brésilienne, et après des études en musique classique (piano c
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 
 
-## 📊 Mes statistiques (dernière semaine)
-
 <!--START_SECTION:waka-->
-```text
-JavaScript   5 hrs 9 mins    ██████████████████████░░░   87.71 % 
-HTML         30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-```
 <!--END_SECTION:waka-->
