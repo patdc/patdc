@@ -1,6 +1,7 @@
 ## Bonjour ! 👋
 
 🔀 Je suis actuellement en reconversion professionnelle dans le domaine du développement web, et j’étudie à l’école [Ada Tech School](http://www.adatechschool.fr). 
+
 🚗 Développeuse en alternance chez Groupe La Centrale.
 
 ## Bio
